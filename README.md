@@ -1,8 +1,6 @@
 <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C8A2FF&height=220&section=header&text=ML%20Notes%20PDF%20Chatbot&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=GenAI%20|%20NLP%20|%20FAISS%20|%20Groq%20LLM&descAlignY=58&descColor=ffffff&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C8A2FF&height=220&section=header&text=Power%20BI%20Notes%20PDF%20Chatbot&fontSize=42&fontColor=ffffff&textBg=false&animation=fadeIn&fontAlign=15&fontAlignY=38&desc=GenAI%20|%20NLP%20|%20FAISS%20|%20Groq%20LLM&descAlign=15&descAlignY=58&descColor=ffffff&descSize=18"/>
 
 # 📊 Power BI PDF Chatbot
 
